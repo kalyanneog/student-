@@ -1,2 +1,2 @@
 # student-
-assignment for semester I
+practice set for semester I
